@@ -13,9 +13,9 @@ def a_plus_abs_b(a, b):
     3
     """
     if b < 0:
-        f = __a-b___
+        f = __sub___
     else:
-        f = __a+b___
+        f = __add___
     return f(a, b)
 
 def a_plus_abs_b_syntax_check():
